@@ -49,7 +49,7 @@ Abaixo está o diagrama UML representando a modelagem do projeto.
 
 ![Diagrama UML iPhone](./uml/diagrama-iphone.png)
 
-> O diagrama foi criado no [draw.io](https://drive.google.com/file/d/1qgRZU7CyHqOGnrUdnXIBeDC1ZdNSAV0W/view?usp=drive_link) e representa as interfaces e suas relações com a classe `Iphone`.
+> O diagrama foi criado no [draw.io]([https://drive.google.com/file/d/1qgRZU7CyHqOGnrUdnXIBeDC1ZdNSAV0W/view?usp=drive_link](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Desafio-java-poo-uml-projetoIphone&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1qgRZU7CyHqOGnrUdnXIBeDC1ZdNSAV0W%26export%3Ddownload)) e representa as interfaces e suas relações com a classe `Iphone`.
 
 ---
 
